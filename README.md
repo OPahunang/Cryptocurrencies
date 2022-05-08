@@ -21,9 +21,13 @@ The following are the deliverables in these project:
 - The following five preprocessing steps have been performed on the crypto_df DataFrame:
 	
 	A. All cryptocurrencies that are not being traded are removed
+	
 	B. The IsTrading column is dropped
+	
 	C. All the rows that have at least one null value are removed
+	
 	D. All the rows that do not have coins being mined are removed
+	
 	E. The CoinName column is dropped
 
 ![deliv1-crypto_df.png](https://github.com/OPahunang/Cryptocurrencies/blob/main/resources/deliv1-crypto_df.png)
