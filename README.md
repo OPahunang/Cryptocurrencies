@@ -2,7 +2,7 @@
 
 ## Overview
 
-Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies.
+Accountability Accounting, a prominent investment bank is interested in offering a new cryptocurrency investment portfolio for its customers. The company, however, is lost in the vast universe of cryptocurrencies.
 
 Since there is no known output, the project is it to create a report with data visualizations in an unsupervised machine learning that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 
